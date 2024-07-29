@@ -28,6 +28,7 @@ function App() {
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
       </p>
+      <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Harum quae placeat odio alias dolorem, magnam vitae velit quam quibusdam doloribus earum facere ea error corporis quas minima autem nam iste?</p>
     </>
   )
 }
